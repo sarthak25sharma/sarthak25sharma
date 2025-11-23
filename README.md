@@ -4,8 +4,7 @@ Hi 👋 My name is Sarthak Sharma
 Web and App Developer
 ---------------------
 
-I am a 3rd-year B.Tech student at IIIT Delhi, deeply passionate about Web and App Development. My technical skill set spans React, Express, Node.js, SQL, REST APIs, Flutter, and Postman. During my internship at IIIT Delhi’s ECE Lab, I contributed to an inventory management system that served over 500 users, optimizing usability and performance. Currently, I’m a Tech Intern at The Fin Lit Project, where I’m working on a Flutter-based app to integrate APIs, automate processes, and enhance user experience through seamless functionality.
-
+I am a 4th-year B.Tech student at IIIT Delhi, deeply passionate about Web and App Development. My technical skill set spans React, Express, Node.js, SQL, REST APIs, Flutter, and Postman. During my internship at IIIT Delhi’s ECE Lab, I contributed to an inventory management system that served over 500 users, optimizing usability and performance. I am an upcoming SDE Intern @Amazon 
 * 🌍  I'm based in Delhi India
 * ✉️  You can contact me at [sarthakmjs213@gmail.com](mailto:sarthakmjs213@gmail.com)
 
